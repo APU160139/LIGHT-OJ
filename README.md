@@ -1,1 +1,1 @@
-light oj SOLUTION
+LIGHT OJ SOLUTION
